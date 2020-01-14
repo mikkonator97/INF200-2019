@@ -10,6 +10,7 @@ __author__ = "Hans E Plesser / NMBU"
 import matplotlib.pyplot as plt
 from randvis.simulation import DVSim
 
+
 if __name__ == '__main__':
 
     sim = DVSim((10, 15), 0.1, 12345)
